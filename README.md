@@ -32,18 +32,16 @@ This project provides a centralized hub where individuals from affected villages
 ---
 
 ## Screenshots
-
-
-
-|                Home Page                |              Dashboard View               |
-| :-------------------------------------: | :---------------------------------------: |
-| **<img width="1588" height="2109" alt="homepage" src="https://github.com/user-attachments/assets/b178be8e-61f2-4f82-8a8f-7ac090dd71e7" />
- | **<img width="1588" height="1416" alt="Dashboard" src="https://github.com/user-attachments/assets/45872ae4-aa8d-41c3-9ce5-163cea92f5bf" />
-[Screenshot of the Dashboard here]**    |
-| **<img width="1588" height="1921" alt="Form" src="https://github.com/user-attachments/assets/dd559fb5-c9b2-42bf-8488-740f7568ec9b" />
-[Screenshot of the Request Form]**    | **<img width="1588" height="2240" alt="Village" src="https://github.com/user-attachments/assets/b2b7ca34-7618-4ecd-ac6c-bc3c9bf5fe57" />
-[Screenshot of the Village Detail Page]** |
-
+- **Homepage**
+  <img width="1588" height="2109" alt="homepage" src="https://github.com/user-attachments/assets/13a61dad-1162-49a2-aabd-3ad627db364f" />
+- **Request Form**
+  <img width="1588" height="1921" alt="Form" src="https://github.com/user-attachments/assets/1e923255-9a50-4358-92a2-fc7d7232e81a" />
+- **Login/Sign up**
+  <img width="1588" height="950" alt="Login" src="https://github.com/user-attachments/assets/01ab640e-c727-4b0c-b464-7c26cd0a2016" />
+- **Dashboard**
+  <img width="1588" height="1416" alt="Dashboard" src="https://github.com/user-attachments/assets/ccbd23bb-c468-4ee7-bb53-4019cb0fb7fd" />
+- **Village Details**
+  <img width="1588" height="2240" alt="Village" src="https://github.com/user-attachments/assets/565f2bac-49ef-4ce3-9445-6b593299173b" />
 
 ---
 
