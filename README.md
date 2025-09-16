@@ -33,15 +33,17 @@ This project provides a centralized hub where individuals from affected villages
 
 ## Screenshots
 
-*(Here you can add your own screenshots to showcase the application.)*
+
 
 |                Home Page                |              Dashboard View               |
 | :-------------------------------------: | :---------------------------------------: |
-| **[Screenshot of the Home Page here]**  | **[Screenshot of the Dashboard here]**    |
-| **Mobile-friendly Relief Request Form** | **Detailed Village View with Map & Data** |
-| **[Screenshot of the Request Form]**    | **[Screenshot of the Village Detail Page]** |
-|          **Admin User Management**        |          **Admin Audit Log**            |
-| **[Screenshot of Admin Users Page]**    | **[Screenshot of Admin Audit Log Page]**  |
+| **<img width="1588" height="2109" alt="homepage" src="https://github.com/user-attachments/assets/b178be8e-61f2-4f82-8a8f-7ac090dd71e7" />
+ | **<img width="1588" height="1416" alt="Dashboard" src="https://github.com/user-attachments/assets/45872ae4-aa8d-41c3-9ce5-163cea92f5bf" />
+[Screenshot of the Dashboard here]**    |
+| **<img width="1588" height="1921" alt="Form" src="https://github.com/user-attachments/assets/dd559fb5-c9b2-42bf-8488-740f7568ec9b" />
+[Screenshot of the Request Form]**    | **<img width="1588" height="2240" alt="Village" src="https://github.com/user-attachments/assets/b2b7ca34-7618-4ecd-ac6c-bc3c9bf5fe57" />
+[Screenshot of the Village Detail Page]** |
+
 
 ---
 
